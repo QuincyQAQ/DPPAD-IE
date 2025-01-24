@@ -4,7 +4,7 @@ DPPAD-IE: Dynamic Polyhedra Permutating and Arnold Diffusing Medical Image Encry
 
 Quanjun Li , Qian Li , Bingo Wing-Kuen Ling, Chi-Man Pun, Guoheng Huang, Xiaochen Yuan, Guo Zhong, Fahad Alblehai, and Jianwu Chen
 
-**niversity of Technology, Wuyi University, University of Macau, Macau Polytechnic University, Guangdong University of Foreign StudiesKing Saud University, Fujian Medical University Union Hospital, Fujian Key Laboratory of Intelligent Imaging and Precision Radiotherapy for Tumors (Fujian Medical University), Clinical Research Center for Radiology and Radiotherapy of Fujian Province (Digestive, Hematological and Breast Malignancies)**
+**Guangdong university of Technology, Wuyi University, University of Macau, Macau Polytechnic University, Guangdong University of Foreign StudiesKing Saud University, Fujian Medical University Union Hospital, Fujian Medical University, Clinical Research Center for Radiology and Radiotherapy of Fujian Province**
 
 
 ## 🚧 Installation 
