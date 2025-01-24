@@ -1,24 +1,10 @@
-# DPPAD-IE
-# 🛎 Citation
-
-If you find our work helpful for your research, please cite:
-
-```bib
-@article{zheng2024lagrange,
-  title={Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation},
-  author={Zheng, Fuchen and Li, Quanjun and Li, Weixuan and Chen, Xuhang and Dong, Yihang and Huang, Guoheng and Pun, Chi-Man and Zhou, Shoujun},
-  journal={arXiv preprint arXiv:2409.07793},
-  year={2024}
-}
-```
-
 # 📋DPPAD-IE
 
 DPPAD-IE: Dynamic Polyhedra Permutating and Arnold Diffusing Medical Image Encryption Using 2D Cross Gaussian Hyperchaotic Map
 
-Quanjun Li , Qian Li , Bingo Wing-Kuen Ling , Senior Member, IEEE, Chi-Man Pun, Guoheng Huang, Xiaochen Yuan, Guo Zhong, Fahad Alblehai, and Jianwu Chen
+Quanjun Li , Qian Li , Bingo Wing-Kuen Ling, Chi-Man Pun, Guoheng Huang, Xiaochen Yuan, Guo Zhong, Fahad Alblehai, and Jianwu Chen
 
-**University of Macau, SIAT CAS, Guangdong University of Technology**
+**niversity of Technology, Wuyi University, University of Macau, Macau Polytechnic University, Guangdong University of Foreign StudiesKing Saud University, Fujian Medical University Union Hospital, Fujian Key Laboratory of Intelligent Imaging and Precision Radiotherapy for Tumors (Fujian Medical University), Clinical Research Center for Radiology and Radiotherapy of Fujian Province (Digestive, Hematological and Breast Malignancies)**
 
 
 ## 🚧 Installation 
