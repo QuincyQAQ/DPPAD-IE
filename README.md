@@ -13,12 +13,13 @@ Requirements: `Matlab 2024`
 
 ## 1. Prepare the dataset
 
-### LiTS2017 datasets
-- The LiTS2017 datasets can be downloaded here: {[LiTS2017](https://competitions.codalab.org/competitions/17094)}.
-- The Synapse dataset can be downloaded here: {[Synapse multi-organ](https://www.synapse.org/Synapse:syn3193805/wiki/217789)}.
+### datasets
+- the Brain Tumors dataset. 
+- the Computer-Aided Diagnostic dataset for classifying Chest X-Ray Images Using Deep Ensemble Learning.
+
 
 ## 2. Obtain the outputs
-- After trianing, you could obtain the results in './trained_models/LiTS_CMAformer/'
+- After trianing, you could obtain the results
 
   
 # 🧧 Acknowledgement
