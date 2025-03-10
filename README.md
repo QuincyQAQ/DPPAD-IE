@@ -41,15 +41,29 @@ Quanjun Li , Qian Li , Bingo Wing-Kuen Ling, Chi-Man Pun, Guoheng Huang, Xiaoche
 Requirements: `Matlab 2024`
 
 
-## 1. Prepare the dataset
+## 1. Preparing the Dataset  
 
-### datasets
-- the Brain Tumors dataset. 
-- the Computer-Aided Diagnostic dataset for classifying Chest X-Ray Images Using Deep Ensemble Learning.
+To ensure robust encryption and evaluation, we first prepare the datasets used in this study. The selected datasets include:  
 
+### Datasets  
+- **Brain Tumors Dataset**  
+  - A medical imaging dataset containing brain tumor scans.  
+  - Used for testing encryption robustness in medical image security.  
 
-## 2. Obtain the outputs
-- After trianing, you could obtain the results
+- **Computer-Aided Diagnostic (CAD) Dataset**  
+  - A dataset of chest X-ray images for automated disease classification.  
+  - Utilized to evaluate the impact of encryption on deep ensemble learning models.  
+
+## 2. Encrypting and Obtaining the Outputs  
+
+Once the datasets are prepared, the next step is to apply the encryption algorithm to transform the images.  
+
+- Run **`encrypt.m`** to execute the encryption process.  
+- After execution, the encrypted images are generated and stored for further analysis.  
+- The encrypted outputs can be used for **security validation, decryption testing, and performance evaluation**.  
+
+This encryption process ensures the confidentiality and integrity of sensitive medical images while enabling secure AI-driven diagnostics.  
+
 
   
 # 🧧 Acknowledgement
