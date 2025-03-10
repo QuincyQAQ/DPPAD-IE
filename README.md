@@ -66,5 +66,11 @@ This encryption process ensures the confidentiality and integrity of sensitive m
 
 
   
-# 🧧 Acknowledgement
-This work was supported by Key Areas Research and Development Program of Guangzhou Grant 2023B01J0029, the Guangdong Provincial Key Laboratory of Cyber-Physical System under Grant 2020B1212060069, the University of Macau under Grant MYRG2022-00190-FST, and in part by the Science and Technology Development Fund, Macau SAR, under Grant 0141/2023/RIA2, and Guangdong Basic and Applied Basic Research Foundation under Grant 2024A1515011729 and 0193/2023/RIA3, and ResearchersSupporting Project number (RSPD2025R564).King Saud University, Riyadh, Saudi Arabia.
+# 🧧 Acknowledgement  
+
+This work was supported by the **Key Areas Research and Development Program of Guangzhou** (Grant No. 2023B01J0029), the **Guangdong Provincial Key Laboratory of Cyber-Physical System** (Grant No. 2020B1212060069), and the **University of Macau** (Grant No. MYRG2022-00190-FST).  
+
+Additionally, this research was partially funded by the **Science and Technology Development Fund, Macau SAR** (Grant No. 0141/2023/RIA2), the **Guangdong Basic and Applied Basic Research Foundation** (Grant Nos. 2024A1515011729 and 0193/2023/RIA3), and the **Researchers Supporting Project** (Grant No. RSPD2025R564) from **King Saud University, Riyadh, Saudi Arabia**.  
+
+We sincerely appreciate the generous support from these institutions.  
+
